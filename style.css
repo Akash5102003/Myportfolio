@@ -1,0 +1,28 @@
+/* style.css */
+
+/* General */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  /* Hero Section */
+  header {
+    background: linear-gradient(to right, #007bff, #6610f2);
+  }
+  
+  /* Cards */
+  .card img {
+    object-fit: cover;
+    height: 180px;
+  }
+  
+  /* Footer */
+  footer {
+    font-size: 14px;
+  }
+  
+  /* Smooth Scroll (optional) */
+  html {
+    scroll-behavior: smooth;
+  }
+  
